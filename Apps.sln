@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "presentacion", "presentacion\presentacion.csproj", "{9A333D1C-E7A7-4F0C-B089-E1666CEEBB09}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AccesoDatos", "AccesoDatos\AccesoDatos.csproj", "{DDE59EB4-DB30-4001-B232-9251E87A9A76}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tantaros", "Tantaros\Tantaros.csproj", "{45E54E7F-AD36-429F-B156-A2A23A9606EE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pruebas", "Pruebas\Pruebas.csproj", "{087124B1-8D5A-43B8-B0CA-F60F1774E366}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{087124B1-8D5A-43B8-B0CA-F60F1774E366}.Debug|x86.ActiveCfg = Debug|x86
+		{087124B1-8D5A-43B8-B0CA-F60F1774E366}.Debug|x86.Build.0 = Debug|x86
+		{087124B1-8D5A-43B8-B0CA-F60F1774E366}.Release|x86.ActiveCfg = Release|x86
+		{087124B1-8D5A-43B8-B0CA-F60F1774E366}.Release|x86.Build.0 = Release|x86
+		{45E54E7F-AD36-429F-B156-A2A23A9606EE}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{45E54E7F-AD36-429F-B156-A2A23A9606EE}.Debug|x86.Build.0 = Debug|Any CPU
+		{45E54E7F-AD36-429F-B156-A2A23A9606EE}.Release|x86.ActiveCfg = Release|Any CPU
+		{45E54E7F-AD36-429F-B156-A2A23A9606EE}.Release|x86.Build.0 = Release|Any CPU
+		{9A333D1C-E7A7-4F0C-B089-E1666CEEBB09}.Debug|x86.ActiveCfg = Debug|x86
+		{9A333D1C-E7A7-4F0C-B089-E1666CEEBB09}.Debug|x86.Build.0 = Debug|x86
+		{9A333D1C-E7A7-4F0C-B089-E1666CEEBB09}.Release|x86.ActiveCfg = Release|x86
+		{9A333D1C-E7A7-4F0C-B089-E1666CEEBB09}.Release|x86.Build.0 = Release|x86
+		{DDE59EB4-DB30-4001-B232-9251E87A9A76}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{DDE59EB4-DB30-4001-B232-9251E87A9A76}.Debug|x86.Build.0 = Debug|Any CPU
+		{DDE59EB4-DB30-4001-B232-9251E87A9A76}.Release|x86.ActiveCfg = Release|Any CPU
+		{DDE59EB4-DB30-4001-B232-9251E87A9A76}.Release|x86.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Pruebas\Pruebas.csproj
+	EndGlobalSection
+EndGlobal
